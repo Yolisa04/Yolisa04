@@ -18,11 +18,17 @@ Currently focused on **financial technology** and **ethical hacking**, while sha
 ## 🔧 Technical Stack
 
 ### 🗣️ Languages & Frameworks
-| Skill | Proficiency |
-|--------|--------------|
-| JavaScript | ████████░░ 80% |
-| HTML / CSS | █████████░ 90% |
-| Python | ████░░░░░░ 40% |
+| Skill        | Proficiency     |
+|--------------|------------------|
+| JavaScript   | █████████░ 90%   |
+| HTML / CSS   | █████████░ 90%   |
+| Python       | █████████░ 90%   |
+| C#           | ██████████░ 95%  |
+| Java         | ██████████░ 95%  |
+| XML          | ██████░░░░ 75%   |
+| JSON         | ██████░░░░ 75%   |
+| YANG(NETCONF & RESTC         | ██████░░░░ 75%   |
+
 
 ### ⚙️ Engineering & Systems
 - Digital circuit design & hardware integration  
