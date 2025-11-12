@@ -81,7 +81,7 @@ Focus: clean code, performance optimization, and user experience.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yolisa04&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yolisa04&layout=compact&theme=radical)
 
 ---
 
