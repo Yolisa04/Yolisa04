@@ -27,7 +27,7 @@ Currently focused on **financial technology** and **ethical hacking**, while sha
 | Java         | ██████████░ 95%  |
 | XML          | ██████░░░░ 75%   |
 | JSON         | ██████░░░░ 75%   |
-| YANG(NETCONF & RESTC         | ██████░░░░ 75%   |
+| YANG(NETCONF & RESTCONF)        | ██████░░░░ 75%   |
 
 
 ### ⚙️ Engineering & Systems
