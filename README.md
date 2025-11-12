@@ -10,7 +10,7 @@
 Computer engineering student with a strong foundation in **hardware design** and growing expertise in **software development**.  
 Passionate about building **secure, scalable systems** where cybersecurity meets practical engineering.
 
-My approach blends systematic problem-solving with hands-on experimentation — whether designing circuits, configuring networks, or developing web applications.  
+My approach blends systematic problem-solving with hands-on experimentation - whether designing circuits, configuring networks, or developing web applications.  
 Currently focused on **financial technology** and **ethical hacking**, while sharpening my **production-ready development skills**.
 
 ---
@@ -137,6 +137,6 @@ I believe in:
 <div align="center">
 
 ⭐ *If you find my projects interesting, consider starring them!*  
-Thanks for visiting — **let’s build something amazing together.**
+Thanks for visiting - **let’s build something amazing together.**
 
 </div>
