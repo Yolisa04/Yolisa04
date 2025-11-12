@@ -43,7 +43,7 @@ Currently building my toolkit with:
 I’m always open to connecting with fellow students, engineers, and tech enthusiasts. If you're working on something exciting or just want to chat tech, feel free to reach out!
 
 - [💼 LinkedIn – Yolisa Hlohla](https://www.linkedin.com/in/yolisa-hlohla)  
-- 📧 Email: 230540414@mycput.ac.za
+- 📧 Email: yolisahlohla.ac.za
 
 ---
 
