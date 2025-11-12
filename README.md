@@ -1,52 +1,136 @@
-# Hey, I'm Yolisa Hlohla! 👋
+# 👋 Hi, I'm **Yolisa Hlohla**
 
-🎓 **Computer Engineering Student @ CPUT**  
-💻 Future Software Developer | Networks • Circuits • Ethical Hacking Enthusiast
-
----
-
-## 🌟 About Me
-
-Hi there! I’m Yolisa a passionate and curious computer engineering student at the Cape Peninsula University of Technology (CPUT).
-
-I thrive on understanding how technology works beneath the surface - whether it’s designing secure banking systems, configuring robust networks, or diving into the fundamentals of ethical hacking. My biggest fascination? How hardware and software come together to solve real-world challenges.
-
-Right now, I’m on an exciting journey to become a versatile software developer with strong roots in engineering and cybersecurity.
+🎓 **Computer Engineering Student @ Cape Peninsula University of Technology**  
+💡 Specializing in **secure systems**, **network architecture**, and **full-stack development**
 
 ---
 
-## 🛠️ What I’m Working On
+## 🧠 About Me
 
-Here’s what I’ve been exploring lately:
+Computer engineering student with a strong foundation in **hardware design** and growing expertise in **software development**.  
+Passionate about building **secure, scalable systems** where cybersecurity meets practical engineering.
 
-- 💳 **Banking Systems** – Building secure and intuitive features for financial platforms  
-- 🌐 **Web Development** – Crafting simple, modern, and responsive websites  
-- 🧠 **Networking Projects** – Learning to design and manage reliable networks  
-- 🔌 **Circuits & Hardware** – Diving into hardware, one circuit at a time  
-
----
-
-## 🚀 Skills & Tools
-
-Currently building my toolkit with:
-
-- 💡 Computer engineering fundamentals  
-- 🌍 Network configuration & troubleshooting  
-- 🔩 Circuit design basics  
-- 🖥️ Web development (HTML, CSS, JavaScript - leveling up every day!)  
-- 🔐 Ethical hacking (just starting out, eager to grow!)
+My approach blends systematic problem-solving with hands-on experimentation — whether designing circuits, configuring networks, or developing web applications.  
+Currently focused on **financial technology** and **ethical hacking**, while sharpening my **production-ready development skills**.
 
 ---
 
-## 🤝 Let’s Connect!
+## 🔧 Technical Stack
 
-I’m always open to connecting with fellow students, engineers, and tech enthusiasts. If you're working on something exciting or just want to chat tech, feel free to reach out!
+### 🗣️ Languages & Frameworks
+| Skill | Proficiency |
+|--------|--------------|
+| JavaScript | ████████░░ 80% |
+| HTML / CSS | █████████░ 90% |
+| Python | ████░░░░░░ 40% |
 
-- [💼 LinkedIn – Yolisa Hlohla](https://www.linkedin.com/in/yolisa-hlohla)  
-- 📧 Email: yolisahlohla.com
+### ⚙️ Engineering & Systems
+- Digital circuit design & hardware integration  
+- Network architecture & configuration  
+- System security fundamentals  
+- Embedded systems (learning)
+
+### 🧰 Development Tools
+- Git & GitHub for version control  
+- VS Code & debugging tools  
+- Linux/Unix environments  
+- Network simulation tools (Cisco Packet Tracer)
 
 ---
 
-> **"Never quit until the issue is resolved - suffer now, enjoy later."**
+## 🚀 What I'm Building
 
-Thanks for stopping by! Feel free to explore my projects, and let’s learn and build together. 🙌
+### 🏦 Secure Banking Platform
+Building authentication systems and secure transaction features for financial applications.  
+Focus: input validation, encryption, and session management.
+
+### 🌐 Network Infrastructure Lab
+Designing and implementing diverse network topologies.  
+Exploring routing protocols, security configurations, and troubleshooting methodologies.
+
+### 💻 Portfolio Web Applications
+Creating responsive, accessible web apps using modern JavaScript.  
+Focus: clean code, performance optimization, and user experience.
+
+---
+
+## 📘 Active Learning
+
+**Cybersecurity:** Ethical hacking fundamentals, penetration testing, and security best practices  
+**Cloud Computing:** AWS / Azure basics for scalable app deployment  
+**Advanced Web Dev:** React.js & Node.js for full-stack development
+
+---
+
+## 🎯 2025 Goals
+
+- ✅ Complete **3 production-ready full-stack projects**  
+- ✅ Earn **CompTIA Network+** or similar certification  
+- ✅ Contribute to **5+ open-source projects**  
+- ✅ Build a comprehensive **cybersecurity toolkit**  
+- ✅ Launch a **personal tech blog** documenting my learning journey
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Collaborate
+
+I’m open to:
+- Open-source projects in **fintech, security, or network tools**  
+- Study groups or coding challenges  
+- Mentorship or internship opportunities in **software development** or **cybersecurity**
+
+Preferred collaboration areas:  
+**Web security • Banking systems • Network automation • Ethical hacking tools**
+
+---
+
+## 📚 Recent Learning
+
+**Completed:**
+- Network fundamentals and TCP/IP stack  
+- Secure coding practices for web applications  
+- Basic penetration testing methodology  
+
+**In Progress:**
+- OWASP Top 10 security vulnerabilities  
+- RESTful API design & implementation  
+- Advanced JavaScript patterns & async programming  
+
+**Next Up:**
+- Docker containerization  
+- CI/CD pipeline implementation  
+- Mobile-responsive design frameworks  
+
+---
+
+## 💡 Philosophy
+
+> “Persistence transforms challenges into expertise. Debug relentlessly, learn continuously, build purposefully.”
+
+I believe in:
+- **Learning in public** – Sharing knowledge strengthens the community  
+- **Security by design** – Protection built in from the start  
+- **Practical application** – Theory guides, but hands-on experience teaches  
+- **Continuous improvement** – Every bug fixed is a lesson learned  
+
+---
+
+## 📫 Get In Touch
+
+📍 **Location:** Cape Town, South Africa 🇿🇦  
+💼 **LinkedIn:** [Yolisa Hlohla](https://linkedin.com/in/yourprofile)  
+📧 **Email:** yolisahlohla@gmail.com  
+
+<div align="center">
+
+⭐ *If you find my projects interesting, consider starring them!*  
+Thanks for visiting — **let’s build something amazing together.**
+
+</div>
