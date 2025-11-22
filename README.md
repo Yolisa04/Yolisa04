@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Yolisa Hlohla**
 
 🎓 **Computer Engineering Student @ Cape Peninsula University of Technology**  
-💡 Specializing in **secure systems**, **network architecture**, and **full-stack development**
+💡 Specializing in **Embedded Systems**,**secure systems**, **network architecture**, and **full-stack development**
 
 ---
 
@@ -18,16 +18,35 @@ Currently focused on **financial technology** and **ethical hacking**, while sha
 ## 🔧 Technical Stack
 
 ### 🗣️ Languages & Frameworks
+
+### 🖥️ Programming Languages
 | Skill        | Proficiency     |
 |--------------|------------------|
 | JavaScript   | █████████░ 90%   |
-| HTML / CSS   | █████████░ 90%   |
 | Python       | █████████░ 90%   |
 | C#           | ██████████░ 95%  |
 | Java         | ██████████░ 95%  |
+| C++          | ██████░░░░ 75%   |
+
+### 🎨 Web Technologies
+| Skill        | Proficiency     |
+|--------------|------------------|
+| HTML / CSS   | █████████░ 90%   |
+| Node.js      | █████░░░░░ 65%   |
+
+### 🗄️ Databases
+| Skill        | Proficiency     |
+|--------------|------------------|
+| MySQL        | █████████░ 90%   |
+| MongoDB      | █████░░░░░ 65%   |
+
+### ⚙️ Data Formats & Protocols
+| Skill        | Proficiency     |
+|--------------|------------------|
 | XML          | ██████░░░░ 75%   |
 | JSON         | ██████░░░░ 75%   |
-| YANG(NETCONF & RESTCONF)        | ██████░░░░ 75%   |
+| YANG (NETCONF & RESTCONF) | ██████░░░░ 75%   |
+
 
 
 ### ⚙️ Engineering & Systems
