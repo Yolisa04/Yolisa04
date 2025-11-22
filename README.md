@@ -87,16 +87,6 @@ Focus: clean code, performance optimization, and user experience.
 
 ---
 
-## 🎯 2025 Goals
-
-- ✅ Complete **3 production-ready full-stack projects**  
-- ✅ Earn **CompTIA Network+** or similar certification  
-- ✅ Contribute to **5+ open-source projects**  
-- ✅ Build a comprehensive **cybersecurity toolkit**  
-- ✅ Launch a **personal tech blog** documenting my learning journey
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yolisa04&show_icons=true&theme=radical)  
