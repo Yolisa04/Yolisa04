@@ -1,151 +1,253 @@
-# 👋 Hi, I'm **Yolisa Hlohla**
+# Hi, I'm Yolisa Hlohla 👋
 
-🎓 **Computer Engineering Student @ Cape Peninsula University of Technology**  
-💡 Specializing in **Embedded Systems**,**secure systems**, **network architecture**, and **full-stack development**
+**Computer Engineering Honors Student | Software Developer | Network Automation Enthusiast**
 
----
-
-## 🧠 About Me
-
-Computer engineering student with a strong foundation in **hardware design** and growing expertise in **software development**.  
-Passionate about building **secure, scalable systems** where cybersecurity meets practical engineering.
-
-My approach blends systematic problem-solving with hands-on experimentation - whether designing circuits, configuring networks, or developing web applications.  
-Currently focused on **financial technology** and **ethical hacking**, while sharpening my **production-ready development skills**.
+Cape Town, South Africa
 
 ---
 
-## 🔧 Technical Stack
+## About Me
 
-### 🗣️ Languages & Frameworks
+I'm a Computer Engineering graduate from the Cape Peninsula University of Technology (CPUT), currently completing my Honors degree.
 
-### 🖥️ Programming Languages
-| Skill        | Proficiency     |
-|--------------|------------------|
-| JavaScript   | █████████░ 90%   |
-| Python       | █████████░ 90%   |
-| C#           | ██████████░ 95%  |
-| Java         | ██████████░ 95%  |
-| C++          | ██████░░░░ 75%   |
+My interests sit where software engineering, network infrastructure, and cybersecurity overlap. I enjoy building systems that solve practical problems, whether that means automating network operations, designing backend services, or exploring how security can be integrated into software from the start rather than treated as an afterthought.
 
-### 🎨 Web Technologies
-| Skill        | Proficiency     |
-|--------------|------------------|
-| HTML / CSS   | █████████░ 90%   |
-| Node.js      | █████░░░░░ 65%   |
+A large part of my academic and personal work has focused on Software-Defined Networking (SDN), network automation, backend development, and systems engineering. Working in SDN taught me to think about infrastructure as code, which naturally influenced how I approach software architecture and automation today.
 
-### 🗄️ Databases
-| Skill        | Proficiency     |
-|--------------|------------------|
-| MySQL        | █████████░ 90%   |
-| MongoDB      | █████░░░░░ 65%   |
+In 2025, I participated in the FNB App Academy, where I worked as part of a development team delivering a full-stack application through Agile sprints. The experience exposed me to collaborative software development, code reviews, sprint planning, and shipping software under real project constraints.
 
-### ⚙️ Data Formats & Protocols
-| Skill        | Proficiency     |
-|--------------|------------------|
-| XML          | ██████░░░░ 75%   |
-| JSON         | ██████░░░░ 75%   |
-| YANG (NETCONF & RESTCONF) | ██████░░░░ 75%   |
-
-
-
-### ⚙️ Engineering & Systems
-- Digital circuit design & hardware integration  
-- Network architecture & configuration  
-- System security fundamentals  
-- Embedded systems (learning)
-
-### 🧰 Development Tools
-- Git & GitHub for version control  
-- VS Code & debugging tools  
-- Linux/Unix environments  
-- Network simulation tools (Cisco Packet Tracer)
+At the moment, I'm expanding my skills in cloud technologies, modern backend systems, DevOps practices, and application security.
 
 ---
 
-## 🚀 What I'm Building
+## Tech Stack
 
-### 🏦 Secure Banking Platform
-Building authentication systems and secure transaction features for financial applications.  
-Focus: input validation, encryption, and session management.
+### Languages
 
-### 🌐 Network Infrastructure Lab
-Designing and implementing diverse network topologies.  
-Exploring routing protocols, security configurations, and troubleshooting methodologies.
+* Python
+* C / C++
+* Java
+* JavaScript
+* SQL
+* Bash
 
-### 💻 Portfolio Web Applications
-Creating responsive, accessible web apps using modern JavaScript.  
-Focus: clean code, performance optimization, and user experience.
+### Backend & Web Development
 
----
+* Django
+* Flask
+* Node.js
+* React
+* REST APIs
 
-## 📘 Active Learning
+### Networking & SDN
 
-**Cybersecurity:** Ethical hacking fundamentals, penetration testing, and security best practices  
-**Cloud Computing:** AWS / Azure basics for scalable app deployment  
-**Advanced Web Dev:** React.js & Node.js for full-stack development
+* YANG
+* NETCONF / RESTCONF
+* OpenDaylight
+* OpenFlow
+* BGP
+* OSPF
+* Cisco IOS
+* GNS3
 
----
+### DevOps & Infrastructure
 
-## 📊 GitHub Stats
+* Linux
+* Docker
+* Git
+* CI/CD
+* Prometheus
+* Grafana
+* AWS (Foundational Knowledge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yolisa04&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yolisa04&layout=compact&theme=radical)
+### Databases
 
----
+* PostgreSQL
+* MongoDB
+* MySQL
 
-## 🤝 Let's Collaborate
+### Embedded Systems
 
-I’m open to:
-- Open-source projects in **fintech, security, or network tools**  
-- Study groups or coding challenges  
-- Mentorship or internship opportunities in **software development** or **cybersecurity**
-
-Preferred collaboration areas:  
-**Web security • Banking systems • Network automation • Ethical hacking tools**
-
----
-
-## 📚 Recent Learning
-
-**Completed:**
-- Network fundamentals and TCP/IP stack  
-- Secure coding practices for web applications  
-- Basic penetration testing methodology  
-
-**In Progress:**
-- OWASP Top 10 security vulnerabilities  
-- RESTful API design & implementation  
-- Advanced JavaScript patterns & async programming  
-
-**Next Up:**
-- Docker containerization  
-- CI/CD pipeline implementation  
-- Mobile-responsive design frameworks  
+* Arduino
+* Raspberry Pi
+* Embedded C
 
 ---
 
-## 💡 Philosophy
+## Featured Projects
 
-> “Persistence transforms challenges into expertise. Debug relentlessly, learn continuously, build purposefully.”
+### SDN Network Automation Platform
 
-I believe in:
-- **Learning in public** – Sharing knowledge strengthens the community  
-- **Security by design** – Protection built in from the start  
-- **Practical application** – Theory guides, but hands-on experience teaches  
-- **Continuous improvement** – Every bug fixed is a lesson learned  
+**Python • OpenDaylight • YANG • NETCONF/RESTCONF • Prometheus • Grafana**
+
+Developed an automated network provisioning platform for software-defined environments. The system reduced manual configuration effort by approximately 80% while introducing validation checks, rollback mechanisms, and centralized monitoring.
+
+**Highlights**
+
+* Automated device provisioning workflows
+* Configuration validation and rollback support
+* Real-time telemetry collection
+* Grafana-based monitoring dashboards
 
 ---
 
-## 📫 Get In Touch
+### Secure Banking API Platform
 
-📍 **Location:** Cape Town, South Africa 🇿🇦  
-💼 **LinkedIn:** [Yolisa Hlohla](https://linkedin.com/in/yourprofile)  
-📧 **Email:** yolisahlohla@gmail.com  
+**Python • Django • MongoDB • JWT • RBAC**
 
-<div align="center">
+Designed and developed a modular backend platform with secure authentication and role-based access control. Built using Test-Driven Development principles and designed to support high request volumes.
 
-⭐ *If you find my projects interesting, consider starring them!*  
-Thanks for visiting - **let’s build something amazing together.**
+**Highlights**
 
-</div>
+* JWT authentication
+* Role-based access control
+* RESTful API architecture
+* 95%+ automated test coverage
+* Scalable service design
+
+---
+
+### Network Traffic Engineering Optimization
+
+**Python • PuLP • NetworkX**
+
+Applied optimization techniques to network routing problems, translating mathematical models into production-style Python workflows.
+
+**Results**
+
+* Improved simulated link utilization by approximately 35%
+* Generated network capacity reports
+* Visualized routing and optimization outcomes
+
+---
+
+### Advanced Networking Simulations
+
+**Cisco Packet Tracer • GNS3 • VyOS**
+
+Designed and tested enterprise-scale network environments involving dynamic routing, segmentation, and access control.
+
+**Technologies**
+
+* OSPF
+* RIP
+* EIGRP
+* VLANs
+* ACLs
+* Multi-router troubleshooting
+
+---
+
+### Solar-Powered Embedded Control System
+
+**Arduino • Embedded C**
+
+Built an off-grid embedded control prototype integrating hardware, firmware, and energy management principles into a functional system.
+
+---
+
+### Cybersecurity Learning Lab
+
+**VirtualBox • Linux • Wireshark**
+
+Created a personal laboratory environment for studying:
+
+* Packet analysis
+* Network protocols
+* System hardening
+* Vulnerability assessment
+* Security monitoring
+
+---
+
+## Experience
+
+### Full-Stack Development Trainee
+
+**FNB App Academy | 2025**
+
+Worked within an Agile development team building and delivering a full-stack application.
+
+Key areas of exposure included:
+
+* React development
+* Django backend services
+* Node.js applications
+* REST API development
+* Git collaboration workflows
+* Sprint planning and delivery
+
+---
+
+### Student Researcher & Developer
+
+**CPUT Academic Labs | 2023 – 2025**
+
+Supported software, networking, and systems-related projects while contributing to automation initiatives.
+
+Achievements included:
+
+* Automating monitoring and log analysis workflows
+* Reducing incident response times by approximately 60%
+* Developing Python and Bash tools that eliminated repetitive administration tasks
+* Supporting networked laboratory environments
+
+---
+
+## Education
+
+### BEng Honors in Computer Engineering
+
+**Cape Peninsula University of Technology**
+*Currently Completing*
+
+### BEng Computer Engineering
+
+**Cape Peninsula University of Technology**
+*Graduated 2025*
+
+---
+
+## Certifications
+
+* FNB App Academy – Full-Stack Development (2025)
+* Cisco Networking Foundations: IP Addressing
+* Practical SDN & OpenFlow
+* Introduction to Linux
+
+---
+
+## Currently Exploring
+
+* OWASP Top 10
+* Secure Software Development
+* Docker & Containerization
+* CI/CD Pipelines
+* Cloud Infrastructure
+* Advanced JavaScript
+* Backend Architecture Patterns
+
+---
+
+## Open To
+
+I'm interested in opportunities involving:
+
+* Software Engineering
+* Backend Development
+* Network Automation
+* DevOps Engineering
+* Cybersecurity
+* Infrastructure Engineering
+
+I'm also open to collaborating on open-source projects related to fintech, networking, automation, and security.
+
+---
+
+### Connect
+
+📍 Cape Town, South Africa
+
+Languages: English, isiXhosa, isiZulu
+
+Open to relocation and collaborative projects.
