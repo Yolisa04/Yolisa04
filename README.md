@@ -10,7 +10,7 @@ Cape Town, South Africa
 
 I'm a Computer Engineering graduate from the Cape Peninsula University of Technology (CPUT), currently completing my Honors degree.
 
-My interests sit where software engineering, network infrastructure, and cybersecurity overlap. I enjoy building systems that solve practical problems, whether that means automating network operations, designing backend services, or exploring how security can be integrated into software from the start rather than treated as an afterthought.
+My interests sit where software engineering, network infrastructure, embedded system and cybersecurity overlap. I enjoy building systems that solve practical problems, whether that means automating network operations, designing backend services, or exploring how security can be integrated into software from the start rather than treated as an afterthought.
 
 A large part of my academic and personal work has focused on Software-Defined Networking (SDN), network automation, backend development, and systems engineering. Working in SDN taught me to think about infrastructure as code, which naturally influenced how I approach software architecture and automation today.
 
